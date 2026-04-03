@@ -33,6 +33,11 @@ Tools         Git, Jupyter, VS Code
 | [Autonomous-Robotic-Navigation](https://github.com/br23aay/Autonomous-Robotic-Navigation-System-in-Unity) | Sensor-based robotic car navigation in Unity simulation |
 | [Flight-Data-Analysis](https://github.com/br23aay/A92_DS116_Flight_data_DEL_CCU_Project) | Statistical analysis of DEL–CCU flight pricing & duration patterns |
 ---
+
+### 📊 GitHub Stats
+
+![Bharadwaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=br23aay&show_icons=true&hide_border=true)
+---
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharadwajrachuri-blue)](https://linkedin.com/in/bharadwajrachuri)
 [![Email](https://img.shields.io/badge/Email-bharadwaj.r.career@gmail.com-red)](mailto:bharadwaj.r.career@gmail.com)
