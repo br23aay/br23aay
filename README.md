@@ -36,7 +36,7 @@ Tools         Git, Jupyter, VS Code
 
 ### 📊 GitHub Stats
 
-![Bharadwaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=br23aay&show_icons=true&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=br23aay&theme=default)
 ---
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharadwajrachuri-blue)](https://linkedin.com/in/bharadwajrachuri)
