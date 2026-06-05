@@ -1,6 +1,10 @@
 <!-- ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Bharadwaj%20Rachuri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20%26%20AI%20Engineer%20%E2%80%A2%20RL%20Researcher%20%E2%80%A2%20LLM%20Engineer&descAlignY=58&descSize=18&descColor=00d4ff&animation=fadeIn" width="100%"/>
+
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&repeat=false&width=800&height=90&lines=Bharadwaj+Rachuri)
+
+![role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=99999&color=00D4FF&background=0D111700&center=true&vCenter=true&repeat=false&width=800&height=35&lines=ML+%26+AI+Engineer+%E2%80%A2+RL+Researcher+%E2%80%A2+LLM+Engineer)
+
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -260,5 +264,4 @@ Available for an **immediate start** — no sponsorship required.
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
+<!-- FOOTER DIVIDER -->
