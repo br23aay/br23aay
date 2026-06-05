@@ -1,9 +1,9 @@
 <!-- ANIMATED BANNER -->
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&repeat=false&width=800&height=90&lines=Bharadwaj+Rachuri)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=800&height=90&lines=Bharadwaj+Rachuri" alt="Bharadwaj Rachuri"/>
 
-![role](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=99999&color=00D4FF&background=0D111700&center=true&vCenter=true&repeat=false&width=800&height=35&lines=ML+%26+AI+Engineer+%E2%80%A2+RL+Researcher+%E2%80%A2+LLM+Engineer)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=99999&color=00D4FF&background=0D1117&center=true&vCenter=true&repeat=false&width=800&height=40&lines=ML+%26+AI+Engineer+%E2%80%A2+RL+Researcher+%E2%80%A2+LLM+Engineer" alt="Role"/>
 
 </div>
 
