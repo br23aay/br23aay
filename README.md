@@ -107,9 +107,17 @@ I work at the intersection of **reinforcement learning**, **robotics**, and **pr
 - Built **RESTful APIs** using Flask, maintained **Azure AI & AWS** cloud infrastructure
 - CI/CD pipeline management with Git/GitHub
 
+---
+
+## 🎓 Education
+
 **MSc Artificial Intelligence & Robotics — Commendation** · University of Hertfordshire, UK *(Jan 2024 – Jul 2025)*
 - Published peer-reviewed paper in **IJRES (IF 7.52)** on dexterous robot manipulation via PPO
 - **49 Microsoft Azure AI badges** completed alongside the degree
+
+**B.Tech Mechanical Engineering** · Guntur Engineering College, JNTUK, India *(Aug 2017 – Sep 2021)*
+- Final project: Static Analysis of Spur Gear using FEA (Fusion 360 + ANSYS Workbench)
+- Siemens certified in Milling NC Programming and Milling Operating & Machining (2019)
 
 ---
 
