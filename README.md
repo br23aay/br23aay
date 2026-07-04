@@ -1,4 +1,11 @@
-<!-- ANIMATED BANNER -->
+<!-- HERO BANNER -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FF7&height=180&section=header&text=Bharadwaj%20Rachuri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20and%20AI%20Engineer%20%E2%80%A2%20RL%20Researcher%20%E2%80%A2%20LLM%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+  
+  </div>
+  
+  <!-- ANIMATED BANNER -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=800&height=90&lines=Bharadwaj+Rachuri" alt="Bharadwaj Rachuri"/>
