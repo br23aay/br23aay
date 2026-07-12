@@ -58,15 +58,11 @@ MSc AI & Robotics graduate **(Commendation, 2025)** · University of Hertfordshi
 **1 year of industry experience** as an ML & AI Engineer at **Swayam Ltd, London**
 Building **LLMs · PPO pipelines · REST APIs · Azure AI systems** in production
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=br23aay&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&bg_color=0d1117&hide_border=false&count_private=true" width="400"/>
-
 - 🏆 **Published researcher** in IJRES (IF 7.52) on RL for dexterous robot manipulation
 - 🤖 Trained a **24-DoF Shadow Hand** to rotate a pen 180° using PPO in MuJoCo
 - ☁️ **49 Microsoft Azure AI & Fabric badges** across the full AI engineering stack
 - 🔬 Research keywords: **Sim-to-Real · Reward Hacking · Tactile Sensing · LLM Safety**
 - 🎯 Open to: **ML Engineer · AI Engineer · Data Scientist · Research Engineer**
-
-<br clear="right"/>
 
 ---
 
@@ -252,8 +248,7 @@ Built **RAG pipelines**, prompt flow apps, and safety guardrail evaluations usin
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=br23aay&theme=transparent&hide_border=false&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888&background=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br23aay&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&bg_color=0d1117&langs_count=6" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=br23aay&theme=transparent&hide_border=false&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888&background=0d1117" width="60%"/>
 
 </div>
 
