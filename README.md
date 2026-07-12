@@ -1,11 +1,11 @@
 <!-- HERO BANNER -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FF7&height=180&section=header&text=Bharadwaj%20Rachuri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20and%20AI%20Engineer%20%E2%80%A2%20RL%20Researcher%20%E2%80%A2%20LLM%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
-  
-  </div>
-  
-  <!-- ANIMATED BANNER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FF7&height=180&section=header&text=Bharadwaj%20Rachuri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20and%20AI%20Engineer%20%E2%80%A2%20RL%20Researcher%20%E2%80%A2%20LLM%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+
+</div>
+
+<!-- ANIMATED BANNER -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=800&height=90&lines=Bharadwaj+Rachuri" alt="Bharadwaj Rachuri"/>
@@ -16,7 +16,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=ML+%26+AI+Engineer+%40+Swayam+Ltd%2C+London;Published+Researcher+%E2%80%94+IJRES+IF+7.52;PPO+%7C+MuJoCo+%7C+Shadow+Hand+Manipulation;LLM+Engineer+%7C+Azure+AI+%7C+RAG+Pipelines;49+Microsoft+Azure+AI+Badges;Available+for+Opportunities+%E2%80%94+Immediate+Start+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=ML+%26+AI+Engineer+%40+Swayam+Ltd%2C+London;Published+Researcher+%E2%80%94+IJRES+IF+7.52;PPO+%7C+MuJoCo+%7C+Shadow+Hand+Manipulation;LLM+Engineer+%7C+Azure+AI+%7C+RAG+Pipelines;49+Microsoft+Azure+AI+Badges;Available+for+Opportunities+%E2%80%94+Immediate+Start+%F0%9F%9F%A2" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,6 +41,12 @@
 
 </div>
 
+<div align="center">
+
+**🎬 Live Demos:** [Reward Hacking Visualiser](https://br23aay.github.io/reward_hacking_visualiser.html) · [LLM Evaluation Report](https://br23aay.github.io/llm_eval_report.html) · [SLM Results Dashboard](https://br23aay.github.io/slm-results-dashboard.html) · [Vision Results Dashboard](https://br23aay.github.io/vision-results-dashboard.html)
+
+</div>
+
 ---
 
 <!-- ABOUT -->
@@ -48,8 +54,8 @@
 
 > *"Turning published research into real deployable systems."*
 
-MSc AI & Robotics graduate **(Commendation, 2025)** · University of Hertfordshire  
-**1 year of industry experience** as an ML & AI Engineer at **Swayam Ltd, London**  
+MSc AI & Robotics graduate **(Commendation, 2025)** · University of Hertfordshire
+**1 year of industry experience** as an ML & AI Engineer at **Swayam Ltd, London**
 Building **LLMs · PPO pipelines · REST APIs · Azure AI systems** in production
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=br23aay&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&bg_color=0d1117&hide_border=false&count_private=true" width="400"/>
@@ -141,31 +147,46 @@ Trained a **24-DoF Shadow Dexterous Hand** in MuJoCo using PPO to perform in-han
 - 🎯 175° pen rotation · 97.2% accuracy
 - 🏆 Peak reward: 18,007
 - 🤖 >90% touch sensor accuracy (all 5 fingers)
-- 🔬 Reward hacking discovered & mitigated
+- 🔬 Reward hacking discovered & mitigated · [live visualiser](https://br23aay.github.io/reward_hacking_visualiser.html)
 
 `PPO` `MuJoCo` `Stable-Baselines3` `PyTorch`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 [Autonomous Robotic Navigation](https://github.com/br23aay/Autonomous-Robotic-Navigation)
-![SCORE](https://img.shields.io/badge/SCORE-100%2F100-gold?style=flat-square)
+### 📄 [SLM Document Intelligence](https://github.com/br23aay/slm-document-intelligence)
+![CI PASSING](https://img.shields.io/badge/CI-Passing%20(19%20runs)-00c853?style=flat-square)
 
-Sensor-driven autonomous vehicle in **Unity Engine** with real-time perception, path planning, and obstacle avoidance.
+Privacy-preserving document Q&A and summarisation service using **Phi-3 Mini** via Ollama with a ChromaDB RAG pipeline and a built-in hallucination/safety evaluation layer. 100% local inference.
 
 **Results:**
-- ✅ Full autonomous navigation
-- 🔀 Sensor fusion · Real-time obstacle avoidance
-- 🏆 Scored **100/100**
+- 🔒 No document content or query ever leaves the machine
+- 🧪 29 tests passing · verified CI/CD history (19 GitHub Actions runs)
+- 🛡️ Groundedness, hallucination & safety scored on every query · [live dashboard](https://br23aay.github.io/slm-results-dashboard.html)
 
-`Unity` `C#` `Sensor Fusion` `ML-Agents`
+`Phi-3 Mini` `Ollama` `ChromaDB` `Flask`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ LLM Evaluation — Azure AI Foundry
+### 🔍 [Vision Defect Inspection API](https://github.com/br23aay/vision-defect-inspection-api)
+![INDEPENDENT](https://img.shields.io/badge/INDEPENDENT%20PROJECT-Built%20%26%20Tested%20Locally-00d4ff?style=flat-square)
+
+Fine-tuned **MobileNetV2** (TensorFlow) served through a Flask REST API for automated visual defect classification, with SQLite prediction logging.
+
+**Results:**
+- 🎯 91.7% validation accuracy · two-phase transfer learning
+- 🧪 26/26 tests passing
+- 🐳 Dockerised · [live results dashboard](https://br23aay.github.io/vision-results-dashboard.html)
+
+`TensorFlow` `Flask` `Docker` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [LLM Evaluation — Azure AI Foundry](https://github.com/br23aay/llm-evaluation-workflows)
 ![INDUSTRY](https://img.shields.io/badge/INDUSTRY-Swayam%20Ltd-00d4ff?style=flat-square)
 
 Built **RAG pipelines**, prompt flow apps, and safety guardrail evaluations using Azure AI Foundry SDK.
@@ -173,24 +194,9 @@ Built **RAG pipelines**, prompt flow apps, and safety guardrail evaluations usin
 **Results:**
 - 📊 100+ model outputs evaluated
 - 🛡️ Safety · Hallucination · Alignment checks
-- 🔄 RAG + Prompt Flow in production
+- 🔄 RAG + Prompt Flow in production · [live report](https://br23aay.github.io/llm_eval_report.html)
 
 `Azure AI` `RAG` `LLMs` `Responsible AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Reward Hacking Visualiser
-![IN PROGRESS](https://img.shields.io/badge/STATUS-In%20Progress-orange?style=flat-square)
-
-Interactive **Streamlit** dashboard built on Shadow Hand training data. Visualises reward hacking, phase-based rewards, and touch sensor accuracy.
-
-**Features:**
-- 📈 92 training runs · TensorBoard logs
-- 🎬 Live explorable research data
-- 📉 Phase-based reward comparison
-
-`Streamlit` `Plotly` `TensorBoard` `Python`
 
 </td>
 </tr>
@@ -252,7 +258,7 @@ Interactive **Streamlit** dashboard built on Shadow Hand training data. Visualis
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=br23aay&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=br23aay&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff" width="98%"/>
 </div>
 
 ---
@@ -262,7 +268,7 @@ Interactive **Streamlit** dashboard built on Shadow Hand training data. Visualis
 
 <div align="center">
 
-I'm actively seeking roles in **Machine Learning**, **AI Engineering**, **Data Science**, and **Research Engineering** across the UK.  
+I'm actively seeking roles in **Machine Learning**, **AI Engineering**, **Data Science**, and **Research Engineering** across the UK.
 Available for an **immediate start** — no sponsorship required.
 
 [![Email](https://img.shields.io/badge/bharadwaj.r.career@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharadwaj.r.career@gmail.com)
@@ -270,5 +276,3 @@ Available for an **immediate start** — no sponsorship required.
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://br23aay.github.io)
 
 </div>
-
-<!-- FOOTER DIVIDER -->
