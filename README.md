@@ -16,7 +16,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=ML+%26+AI+Engineer+%40+Swayam+Ltd%2C+London;Published+Researcher+%E2%80%94+IJRES+IF+7.52;PPO+%7C+MuJoCo+%7C+Shadow+Hand+Manipulation;LLM+Engineer+%7C+Azure+AI+%7C+RAG+Pipelines;49+Microsoft+Azure+AI+Badges;Available+for+Opportunities+%E2%80%94+Immediate+Start+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Robot+Learning+from+Human+Video+%E2%80%94+phone-to-panda;ML+%26+AI+Engineer+%40+Swayam+Ltd%2C+London;Published+Researcher+%E2%80%94+IJRES+IF+7.52;PPO+%7C+MuJoCo+%7C+Shadow+Hand+Manipulation;LLM+Engineer+%7C+Azure+AI+%7C+RAG+Pipelines;49+Microsoft+Azure+AI+Badges;Available+for+Opportunities+%E2%80%94+Immediate+Start+%F0%9F%9F%A2" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -59,6 +59,7 @@ MSc AI & Robotics graduate **(Commendation, 2025)** · University of Hertfordshi
 Building **LLMs · PPO pipelines · REST APIs · Azure AI systems** in production
 
 - 🏆 **Published researcher** in IJRES (IF 7.52) on RL for dexterous robot manipulation
+- 🦾 Turned **phone video of a hand into robot demonstrations** and trained ACT and SmolVLA on them ([phone-to-panda](https://github.com/br23aay/phone-to-panda))
 - 🤖 Trained a **24-DoF Shadow Hand** to rotate a pen 180° using PPO in MuJoCo
 - ☁️ **49 Microsoft Azure AI & Fabric badges** across the full AI engineering stack
 - 🔬 Research keywords: **Sim-to-Real · Reward Hacking · Tactile Sensing · LLM Safety**
@@ -96,6 +97,8 @@ Building **LLMs · PPO pipelines · REST APIs · Azure AI systems** in productio
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-Environments-26D0CE?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-ML--Agents-100000?style=flat-square&logo=unity&logoColor=white)
 ![SAC](https://img.shields.io/badge/SAC-Soft%20Actor%20Critic-8B5CF6?style=flat-square)
+![LeRobot](https://img.shields.io/badge/LeRobot-ACT%20%7C%20SmolVLA-FFD21E?style=flat-square)
+![LIBERO](https://img.shields.io/badge/LIBERO-Robot%20Simulation-00d4ff?style=flat-square)
 
 **Deep Learning & AI**
 
@@ -129,6 +132,20 @@ Building **LLMs · PPO pipelines · REST APIs · Azure AI systems** in productio
 
 <!-- PROJECTS -->
 ## 🚀 Featured Projects
+
+### 🤖 [phone-to-panda](https://github.com/br23aay/phone-to-panda): phone video of a hand to a robot policy
+![NEW](https://img.shields.io/badge/NEW-Oct%202026-00c853?style=flat-square) ![Humanoid](https://img.shields.io/badge/Humanoid-Intern%20Challenge-7B2FF7?style=flat-square)
+
+Recorded 14 phone clips of a hand moving an object, retargeted them to a Panda arm in the **LIBERO** simulator, and trained **ACT** and fine-tuned **SmolVLA** on the resulting demonstrations. Also measured how far the motion can be sped up before grasps fail.
+
+**Results:**
+- 🎯 93% replay success at normal speed on layouts never used for demonstrations
+- 📦 101 demonstrations from 112 replays, because each trajectory is stored relative to the object
+- 🧠 ACT and SmolVLA both 58% from camera images and robot state alone
+- ⏱️ Slowing down only around grasp and release beats uniform speed-up at every speed that works
+
+`LeRobot` `LIBERO` `SmolVLA` `ACT` `MuJoCo` `MediaPipe`
+
 
 <table>
 <tr>
